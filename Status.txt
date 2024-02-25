@@ -1,0 +1,17 @@
+Petrified
+Unconscious
+Deafened
+Blind
+Invisible
+Charmed
+Frightened
+Prone
+Grappled
+Restrained
+Poisoned
+Exhaustion 1
+Exhaustion 2
+Exhaustion 3
+Exhaustion 4
+Exhaustion 5
+Exhaustion 6

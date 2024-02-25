@@ -1,0 +1,60 @@
+Acid burn
+Psychic backlash
+Frostbite
+Poisoned wounds
+Lightning strike
+Necrotic decay
+Fire engulfment
+Falling debris
+Magical backlash
+Psychic scream
+Soul drain
+Arcane explosion
+Shadow tendrils
+Toxic fumes
+Sonic boom
+Paralysis
+Petrification
+Blindness
+Curse of weakness
+Muteness
+Enfeeblement
+Hexed
+Dizzying confusion
+Fear
+Magical vulnerability
+Sleep
+Madness
+Pacification
+Polymorphed
+Slowed metabolism
+Forced march - exhaustion if the character doesn't keep moving.
+Test of faith - character must prove their loyalty or suffer consequences.
+Sacrifice - must sacrifice an item or take damage.
+Moral dilemma - forced to choose between two difficult options.
+Oathbinding - must fulfill a geas or suffer penalties.
+Magical binding - character is bound to a specific location or object.
+Servitude - character must serve a powerful entity or face punishment.
+Geas - magically compelled to perform a task or take damage.
+Trial by combat - forced to fight a powerful opponent or face consequences.
+Ritual sacrifice - must sacrifice something precious or suffer the consequences.
+Blood oath - character is bound by blood magic to a promise or task.
+Trial of wits - must solve a complex puzzle or riddle under pressure.
+Enforced silence - cannot speak for a duration or face penalties.
+Bloodletting - must donate blood or suffer penalties.
+Rite of passage - must complete a dangerous task to prove themselves.
+Memory loss - forgets certain events or abilities temporarily.
+Time dilation - experiences time differently, aging rapidly or slowing down.
+Shadow curse - followed by a malignant shadow, causing misfortune.
+Mark of shame - visibly marked as a criminal or outcast.
+Soul binding - tied to another character, sharing damage and effects.
+Lost in dreams - trapped in a dream realm, unable to wake up.
+Elemental attunement - cursed with vulnerability to a specific element.
+Magical resonance - attracts magical anomalies or disturbances.
+Plague bearer - carriers of a contagious disease, feared and shunned.
+Weather manipulation - cursed to bring storms or adverse weather.
+Bloodlust - uncontrollable rage in combat, attacking allies or innocent bystanders.
+Haunted - followed by vengeful spirits, causing disturbances.
+Fate's whim - roll infinite dice randomly without warning at unkown times
+Soul debt - indebted to a powerful entity, must fulfill requests or suffer.
+Reality distortion - surroundings become unpredictable, altering terrain and effects.
